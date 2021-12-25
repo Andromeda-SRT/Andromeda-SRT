@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-In develop 👀👨‍💻⏱🏗
+I am Vadim. 
+Now I am studying on Software-Engineer 👨‍🎓
+
+- ✨ Interests: Robotics, Embedded systems, Weapon
+- 🛣 Branch: Software Developer [Core]
+- 🎚 Level: Beginner
+- 🎓 Studying skills: Assembler, C++ STL
+- 🤹‍♂️ Skills: Computer Networks, algorithms, C++
+- 📅 Age: 21
+
+
 <!--
 **Andromeda-SRT/Andromeda-SRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
