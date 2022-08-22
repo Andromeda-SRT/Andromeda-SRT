@@ -4,10 +4,10 @@ I am Vadim.
 Now I am studying on Software-Engineer 👨‍🎓
 
 - ✨ Interests: Robotics, Embedded systems, Weapon
-- 🛣 Branch: Software Developer [Core]
+- 🛣 Branch: Software Developer
 - 🎚 Level: Beginner
-- 🎓 Studying skills: Assembler, C++ STL
-- 🤹‍♂️ Skills: Computer Networks, algorithms, C++
+- 🎓 Studying skills: C++ Base Library, C++ STL
+- 🤹‍♂️ Skills: Computer Networks, algorithms, C++, Assembler
 - 📅 Age: 21
 
 
