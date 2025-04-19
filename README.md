@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I am Vadim. 
-Now I am studying on Software-Engineer 👨‍🎓
+I am a C++ Software-Engineer 👨‍🎓
 
 - ✨ Interests: Robotics, Embedded systems, Highload systems, Data transmission
 - 🛣 Branch: Software Developer
 - 🎚 Level: Intern/Junior
-- 🎓 Studying skills: C++ STL 14, 17
-- 🤹‍♂️ Skills: Computer Networks, algorithms, C++, Assembler, C++ Base Library
-- 📅 Age: 21
+- 🎓 Studying skills: Qt5
+- 🤹‍♂️ Skills: Computer Networks, algorithms, C++, Assembler, C++ Base Library, C++ STL 14, 17
+- 📅 Age: 23
 
 
 <!--
