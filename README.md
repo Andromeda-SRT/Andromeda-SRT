@@ -4,7 +4,7 @@ I am a C++ Software-Engineer 👨‍🎓
 
 - ✨ Interests: Robotics, Embedded systems, Highload systems, Data transmission
 - 🛣 Branch: Software Developer
-- 🎚 Level: Intern/Junior
+- 🎚 Level: Middle
 - 🎓 Studying skills: Qt5
 - 🤹‍♂️ Skills: Computer Networks, algorithms, C++, Assembler, C++ Base Library, C++ STL 14, 17
 - 📅 Age: 23
